@@ -1,5 +1,6 @@
 {
   "TC0019.py::test_fifth": true,
   "TC0019.py::test_fifth2": true,
+  "TC0019.py::test_inv_email_fild_message": true,
   "TC008.py::test_second": true
 }
