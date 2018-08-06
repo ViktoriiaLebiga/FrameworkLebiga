@@ -5,7 +5,7 @@ from selenium import webdriver
 def driver():
    _driver = webdriver.Chrome("D:\Phyton\FrameworkLebiga\drivers\chromedriver.exe")
    _driver.maximize_window()
-   _driver.implicitly_wait(10)
+   _driver.implicitly_wait(5)
    return _driver
 
 
